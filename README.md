@@ -4,7 +4,7 @@ Unity application with which a cube can be controlled through serial communicati
 ## How to use
 1. Open the application.
 2. Set desired port name and baud rate and click connect.
-3. Send a command. The syntax of commands are given in [Syntax](https://github.com/Everything2067/Cube/#syntax).
+3. Send a command. The syntax of commands are given in [Syntax](#syntax).
 
 ### Syntax
 `commandSelector,value1,value2,value3<CR><LF>`
