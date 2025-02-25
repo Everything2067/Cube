@@ -22,8 +22,8 @@ Unity application with which a cube can be controlled through serial communicati
 
 This project is licensed under the MIT License.
 
-However, it includes assets made by [@dwilches](https://github.com/dwilches), which are licensed under **Creative Commons Attribution 2.0 (CC BY 2.0)**.
+However, it includes assets made by [@dwilches](https://github.com/dwilches), which are licensed under [**Creative Commons Attribution 2.0 (CC BY 2.0)**](https://creativecommons.org/licenses/by/2.0/).
 
 Original assets are available at: https://github.com/dwilches/Ardity
 
-Per CC BY 2.0, all credits for these assets go to [@dwilches](https://github.com/dwilches).
+Per [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), all credits for these assets go to [@dwilches](https://github.com/dwilches).
